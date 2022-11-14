@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1561963870 source:c:\users\tanvi\onedrive\documents\work\lab officer\cse225\lab\lab02\dynarr.cpp
+	"dynarr.h"
+	<iostream>
+
+1561962813 c:\users\tanvi\onedrive\documents\work\lab officer\cse225\lab\lab02\dynarr.h
+
+1561963870 source:c:\users\tanvi\onedrive\documents\work\lab officer\cse225\lab\lab02\main.cpp
+	"dynarr.h"
+	<iostream>
+
+1561963870 source:c:\users\tanvi\onedrive\work\lab officer\cse225\fall 19\section 7 fdm\lab\lab02\main.cpp
+	"dynarr.h"
+	<iostream>
+
+1571935823 c:\users\tanvi\onedrive\work\lab officer\cse225\fall 19\section 7 fdm\lab\lab02\dynarr.h
+
+1571935823 source:c:\users\tanvi\onedrive\work\lab officer\cse225\fall 19\section 7 fdm\lab\lab02\dynarr.cpp
+	"dynarr.h"
+	<iostream>
+

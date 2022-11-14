@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\tanvi\onedrive\work\lab officer\cse225\fall 19\section 7 fdm\lab07\main.cpp
+	<iostream>
+
+1574196822 source:c:\users\tanvi\onedrive\work\lab officer\cse225\fall 19\shared_codes\lab07\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1574195959 c:\users\tanvi\onedrive\work\lab officer\cse225\fall 19\shared_codes\lab07\quetype.h
+
+1574592031 source:c:\users\tanvi\onedrive\work\lab officer\cse225\fall 19\shared_codes\lab07\main.cpp
+	<iostream>
+	"quetype.cpp"
+
+1574196822 c:\users\tanvi\onedrive\work\lab officer\cse225\fall 19\shared_codes\lab07\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1608125913 source:e:\abu ammar\nsu\cse225.11(sak1)\lab\mid\lab07\main.cpp
+	<iostream>
+	"quetype.cpp"
+
+1574735614 e:\abu ammar\nsu\cse225.11(sak1)\lab\mid\lab07\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1574735614 e:\abu ammar\nsu\cse225.11(sak1)\lab\mid\lab07\quetype.h
+
+1574735614 source:e:\abu ammar\nsu\cse225.11(sak1)\lab\mid\lab07\quetype.cpp
+	"quetype.h"
+	<iostream>
+

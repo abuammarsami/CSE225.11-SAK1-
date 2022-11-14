@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1563739469 source:c:\users\tanvi\desktop\onedrive\work\lab officer\cse225\lab\lab06\main.cpp
+	<iostream>
+	"stacktype.cpp"
+	<string>
+
+1563739493 c:\users\tanvi\desktop\onedrive\work\lab officer\cse225\lab\lab06\stacktype.cpp
+	"stacktype.h"
+	<iostream>
+
+1563738242 c:\users\tanvi\desktop\onedrive\work\lab officer\cse225\lab\lab06\stacktype.h
+	<iostream>
+
+1563739493 source:c:\users\tanvi\desktop\onedrive\work\lab officer\cse225\lab\lab06\stacktype.cpp
+	"stacktype.h"
+	<iostream>
+
+1563739561 source:c:\users\tanvi\onedrive\work\lab officer\cse225\fall 19\shared_codes\lab06\stacktype.cpp
+	"stacktype.h"
+	<iostream>
+
+1573503644 c:\users\tanvi\onedrive\work\lab officer\cse225\fall 19\shared_codes\lab06\stacktype.h
+	<iostream>
+
+1573503623 source:c:\users\tanvi\onedrive\work\lab officer\cse225\fall 19\shared_codes\lab06\main.cpp
+	<iostream>
+

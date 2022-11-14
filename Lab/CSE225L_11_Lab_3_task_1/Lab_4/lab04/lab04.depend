@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1563258197 source:c:\users\tanvi\desktop\onedrive\work\lab officer\cse225\lab\lab04\main.cpp
+	"unsortedtype.cpp"
+	<iostream>
+
+1563257819 source:c:\users\tanvi\desktop\onedrive\work\lab officer\cse225\lab\lab04\unsortedtype.cpp
+	"unsortedtype.h"
+
+1566751486 c:\users\tanvi\desktop\onedrive\work\lab officer\cse225\lab\lab04\unsortedtype.h
+
+1566751811 c:\users\tanvi\desktop\onedrive\work\lab officer\cse225\lab\lab04\unsortedtype.cpp
+	"unsortedtype.h"
+
+1563258197 source:c:\users\tanvi\onedrive\work\lab officer\cse225\fall 19\section 7 fdm\lab\lab04\main.cpp
+	"unsortedtype.cpp"
+	<iostream>
+
+1572940968 c:\users\tanvi\onedrive\work\lab officer\cse225\fall 19\section 7 fdm\lab\lab04\unsortedtype.cpp
+	"unsortedtype.h"
+
+1572940887 c:\users\tanvi\onedrive\work\lab officer\cse225\fall 19\section 7 fdm\lab\lab04\unsortedtype.h
+
+1572941242 source:c:\users\tanvi\onedrive\work\lab officer\cse225\fall 19\shared_codes\lab04\main.cpp
+	<iostream>
+
+1572941179 c:\users\tanvi\onedrive\work\lab officer\cse225\fall 19\shared_codes\lab04\unsortedtype.cpp
+	"unsortedtype.h"
+
+1572941179 c:\users\tanvi\onedrive\work\lab officer\cse225\fall 19\shared_codes\lab04\unsortedtype.h
+
+1572941179 source:c:\users\tanvi\onedrive\work\lab officer\cse225\fall 19\shared_codes\lab04\unsortedtype.cpp
+	"unsortedtype.h"
+
+1573015713 source:c:\users\lib-607\downloads\lab04\main.cpp
+	<iostream>
+	"unsortedtype.cpp"
+
+1573015002 c:\users\lib-607\downloads\lab04\unsortedtype.cpp
+	"unsortedtype.h"
+
+1572919584 c:\users\lib-607\downloads\lab04\unsortedtype.h
+
+1573015002 source:c:\users\lib-607\downloads\lab04\unsortedtype.cpp
+	"unsortedtype.h"
+
+1573015988 source:c:\users\lib-607\downloads\lab04\studentinfo.cpp
+	"studentinfo.h"
+
+1573016692 c:\users\lib-607\downloads\lab04\studentinfo.h
+	<string>
+
+1573015002 source:e:\abu ammar\nsu\cse225.11(sak1)\lab\lab_4\lab04\unsortedtype.cpp
+	"unsortedtype.h"
+
+1572919584 e:\abu ammar\nsu\cse225.11(sak1)\lab\lab_4\lab04\unsortedtype.h
+
+1573569140 source:e:\abu ammar\nsu\cse225.11(sak1)\lab\lab_4\lab04\main.cpp
+	<iostream>
+	"unsortedtype.cpp"
+	"studentinfo.h"
+	<string>
+
+1573015002 e:\abu ammar\nsu\cse225.11(sak1)\lab\lab_4\lab04\unsortedtype.cpp
+	"unsortedtype.h"
+
+1573567562 e:\abu ammar\nsu\cse225.11(sak1)\lab\lab_4\lab04\studentinfo.h
+	<string>
+
+1573568276 source:e:\abu ammar\nsu\cse225.11(sak1)\lab\lab_4\lab04\studentinfo.cpp
+	"studentinfo.h"
+	<iostream>
+
+1608124529 source:e:\abu ammar\nsu\cse225.11(sak1)\lab\cse225l_11_lab_3_task_1\lab_4\lab04\main.cpp
+	<iostream>
+	"unsortedtype.cpp"
+	"studentinfo.h"
+	<string>
+
+1573015004 e:\abu ammar\nsu\cse225.11(sak1)\lab\cse225l_11_lab_3_task_1\lab_4\lab04\unsortedtype.cpp
+	"unsortedtype.h"
+
+1572919584 e:\abu ammar\nsu\cse225.11(sak1)\lab\cse225l_11_lab_3_task_1\lab_4\lab04\unsortedtype.h
+
+1608124748 e:\abu ammar\nsu\cse225.11(sak1)\lab\cse225l_11_lab_3_task_1\lab_4\lab04\studentinfo.h
+	<string>
+
+1608124798 source:e:\abu ammar\nsu\cse225.11(sak1)\lab\cse225l_11_lab_3_task_1\lab_4\lab04\studentinfo.cpp
+	"studentinfo.h"
+	<iostream>
+
+1573015004 source:e:\abu ammar\nsu\cse225.11(sak1)\lab\cse225l_11_lab_3_task_1\lab_4\lab04\unsortedtype.cpp
+	"unsortedtype.h"
+

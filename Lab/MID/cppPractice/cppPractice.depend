@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571028945 source:c:\cse225-lab\cpppractice\main.cpp
+	<iostream>
+	<string>
+

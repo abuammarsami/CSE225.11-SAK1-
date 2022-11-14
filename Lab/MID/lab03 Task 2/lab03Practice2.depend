@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1562094736 source:c:\users\tanvi\onedrive\documents\work\lab officer\cse225\lab\lab03practice2\complex.cpp
+	"complex.h"
+	<iostream>
+
+1562094786 c:\users\tanvi\onedrive\documents\work\lab officer\cse225\lab\lab03practice2\complex.h
+
+1562094768 source:c:\users\tanvi\onedrive\documents\work\lab officer\cse225\lab\lab03practice2\main.cpp
+	<iostream>
+	"complex.h"
+
+1572874211 source:c:\users\tanvi\onedrive\work\lab officer\cse225\fall 19\section 7 fdm\lab\lab03practice2\complex.cpp
+	"complex.h"
+	<iostream>
+
+1572874211 c:\users\tanvi\onedrive\work\lab officer\cse225\fall 19\section 7 fdm\lab\lab03practice2\complex.h
+
+1572874211 source:c:\users\tanvi\onedrive\work\lab officer\cse225\fall 19\section 7 fdm\lab\lab03practice2\main.cpp
+	<iostream>
+	"complex.h"
+

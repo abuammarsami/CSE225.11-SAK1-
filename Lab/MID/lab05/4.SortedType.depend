@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1550865270 source:d:\cse225\labara2\4.sortedtype\main.cpp
+	"sortedType.cpp"
+	"timeStamp.h"
+
+1550863776 d:\cse225\labara2\4.sortedtype\sortedtype.cpp
+	"sortedType.h"
+	<iostream>
+
+1550863776 d:\cse225\labara2\4.sortedtype\sortedtype.h
+
+1550863776 source:d:\cse225\labara2\4.sortedtype\sortedtype.cpp
+	"sortedType.h"
+	<iostream>
+
+1550864925 source:d:\cse225\labara2\4.sortedtype\timestamp.cpp
+	"timeStamp.h"
+	<iostream>
+
+1550864701 d:\cse225\labara2\4.sortedtype\timestamp.h
+
+1550865270 source:c:\users\tanvi\desktop\onedrive\work\lab officer\cse225\nafi\4.sortedtype\main.cpp
+	"sortedType.cpp"
+	"timeStamp.h"
+
+1550863776 c:\users\tanvi\desktop\onedrive\work\lab officer\cse225\nafi\4.sortedtype\sortedtype.cpp
+	"sortedType.h"
+	<iostream>
+
+1550863776 c:\users\tanvi\desktop\onedrive\work\lab officer\cse225\nafi\4.sortedtype\sortedtype.h
+
+1550864701 c:\users\tanvi\desktop\onedrive\work\lab officer\cse225\nafi\4.sortedtype\timestamp.h
+
+1550863776 source:c:\users\tanvi\desktop\onedrive\work\lab officer\cse225\nafi\4.sortedtype\sortedtype.cpp
+	"sortedType.h"
+	<iostream>
+
+1550864925 source:c:\users\tanvi\desktop\onedrive\work\lab officer\cse225\nafi\4.sortedtype\timestamp.cpp
+	"timeStamp.h"
+	<iostream>
+
+1563306834 source:c:\users\tanvi\desktop\onedrive\work\lab officer\cse225\lab\lab05\main.cpp
+	"sortedType.cpp"
+	"timeStamp.h"
+
+1563307603 c:\users\tanvi\desktop\onedrive\work\lab officer\cse225\lab\lab05\sortedtype.cpp
+	"sortedType.h"
+	<iostream>
+
+1550863776 c:\users\tanvi\desktop\onedrive\work\lab officer\cse225\lab\lab05\sortedtype.h
+
+1563308971 c:\users\tanvi\desktop\onedrive\work\lab officer\cse225\lab\lab05\timestamp.h
+
+1563307603 source:c:\users\tanvi\desktop\onedrive\work\lab officer\cse225\lab\lab05\sortedtype.cpp
+	"sortedType.h"
+	<iostream>
+
+1563308971 source:c:\users\tanvi\desktop\onedrive\work\lab officer\cse225\lab\lab05\timestamp.cpp
+	"timeStamp.h"
+	<iostream>
+
+1563309030 source:c:\users\tanvi\onedrive\work\lab officer\cse225\fall 19\shared_codes\lab05\main.cpp
+	"sortedType.cpp"
+	"timeStamp.h"
+
+1563307603 c:\users\tanvi\onedrive\work\lab officer\cse225\fall 19\shared_codes\lab05\sortedtype.cpp
+	"sortedType.h"
+	<iostream>
+
+1573501295 c:\users\tanvi\onedrive\work\lab officer\cse225\fall 19\shared_codes\lab05\sortedtype.h
+
+1573501278 c:\users\tanvi\onedrive\work\lab officer\cse225\fall 19\shared_codes\lab05\timestamp.h
+
+1563307603 source:c:\users\tanvi\onedrive\work\lab officer\cse225\fall 19\shared_codes\lab05\sortedtype.cpp
+	"sortedType.h"
+	<iostream>
+
+1563308971 source:c:\users\tanvi\onedrive\work\lab officer\cse225\fall 19\shared_codes\lab05\timestamp.cpp
+	"timeStamp.h"
+	<iostream>
+
